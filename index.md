@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## A bit about me
 
-You can use the [editor on GitHub](https://github.com/shamouda/shamouda.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a post-doctoral researcher at [INRIA](https://www.inria.fr/en/), Paris. 
+I work with [Marc Shapiro](https://pages.lip6.fr/Marc.Shapiro/) on the design of high-level programming models for geo-replicated databases. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I completed my PhD studies at the [Australian National University](http://www.anu.edu.au/) in 2019
+under the primary supervision of [Dr. Josh Milthorpe](http://www.milthorpe.org/).
+I am also grateful to my thesis advisors [Prof. Steve Blackburn](http://users.cecs.anu.edu.au/~steveb/), and [Assoc/Prof. Peter Strazdins](http://users.cecs.anu.edu.au/~peter/).
+My PhD thesis title is **'Resilience in High-Level Parallel Programming Languages'**, where 
+I addressed issues related to performance and productivity of resilient runtime systems.
+In particular, I worked on enhancing the resilience support of the [X10 language](http://x10-lang.org/) in collaboration with the X10 team at IBM T. J. Watson Research center. 
 
-### Markdown
+### CV
+Find more about me in my [CV](/SaraHamoudaCV.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shamouda/shamouda.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- S. S. Hamouda, [Resilience in High-Level Parallel Programming Languages](https://openresearch-repository.anu.edu.au/handle/1885/164137), PhD Thesis, Australian National University, 2019.
+- D. Grove, S. S. Hamouda, B. Herta, A. Iyengar, K. Kawachiya, J. Milthorpe, V. Saraswat, A. Shinnar, M. Takeuchi, O. Tardieu, [Failure Recovery in Resilient X10](https://dl.acm.org/citation.cfm?id=3332372), ACM TOPLAS, 41(3), 2019.
+- S. S. Hamouda, J. Milthorpe [Resilient Optimistic Termination Detection for the Async-Finish Model](papers/Hamouda2019_ISC_HPC.pdf) ISC High Performance 2019. [Slides](papers/ISC19_OptFinish_Pres.pdf)
+- S. S. Hamouda, B. Herta, J. Milthorpe, D. Grove, and O. Tardieu, [Resilient X10 over MPI User Level Failure Mitigation](https://dl.acm.org/citation.cfm?id=2931030), X10 workshop, PLDI, 2016.
+- S. S. Hamouda, J. Milthorpe, P. E. Strazdins, V. Saraswat, [A Resilient Framework for Iterative Linear Algebra Applications in X10](http://ieeexplore.ieee.org/abstract/document/7284416/), PDSEC workshop, IPDPS, 2015.
+- E. Hossny, S. Salem, and S. M. Khattab, [Towards Automated User-Centric Cloud Provisioning: Job Provisioning and Scheduling on Heterogeneous Virtual Machines](http://ieeexplore.ieee.org/abstract/document/6236557/), INFOS 2012.
+- S. Salem, S. AbdelRahman, [A Multiple-Domain Ontology Builder](https://dl.acm.org/citation.cfm?id=1873890), COLING 2010.
