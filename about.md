@@ -6,8 +6,7 @@ permalink: /about/
 
 <img style="float: left;" src="/assets/img/sara.jpg" width="195.6px" height="288" hspace="8">
 
-I am a post-doctoral researcher at [INRIA](https://www.inria.fr/en/), Paris. 
-I work with [Marc Shapiro](https://pages.lip6.fr/Marc.Shapiro/) on the design of high-level programming models for geo-replicated databases. 
+I am a post-doctoral researcher at [INRIA](https://www.inria.fr/en/) Paris studying programming and resilience models of eventually consistent geo-replicated databases. 
 
 I completed my PhD studies at the [Australian National University](http://www.anu.edu.au/) in 2019
 under the primary supervision of [Dr. Josh Milthorpe](http://www.milthorpe.org/).
