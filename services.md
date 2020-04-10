@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Services
 permalink: /services/
 ---
 - Research poster committee, [ISC High Performance 2020](https://www.isc-hpc.com/research-posters-2020.html)
