@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ### Papers
 - [Resilience in High-Level Parallel Programming Languages](https://openresearch-repository.anu.edu.au/handle/1885/164137) S. S. Hamouda, PhD Thesis, Australian National University, 2019.
-- [Failure Recovery in Resilient X10](https://dl.acm.org/citation.cfm?id=3332372) D. Grove, S. S. Hamouda, B. Herta, A. Iyengar, K. Kawachiya, J. Milthorpe, V. Saraswat, A. Shinnar, M. Takeuchi, O. Tardieu, ACM TOPLAS, 41(3), 2019.
+- [Failure Recovery in Resilient X10](papers/Grove_TOPLAS2019_preprint.pdf) D. Grove, S. S. Hamouda, B. Herta, A. Iyengar, K. Kawachiya, J. Milthorpe, V. Saraswat, A. Shinnar, M. Takeuchi, O. Tardieu, ACM TOPLAS, 41(3), 2019.
 - [Resilient Optimistic Termination Detection for the Async-Finish Model](papers/Hamouda2019_ISC_HPC.pdf) S. S. Hamouda, J. Milthorpe, ISC High Performance 2019. [Slides](papers/ISC19_OptFinish_Pres.pdf)
 - [Resilient X10 over MPI User Level Failure Mitigation](https://dl.acm.org/citation.cfm?id=2931030) S. S. Hamouda, B. Herta, J. Milthorpe, D. Grove, and O. Tardieu, X10 workshop, PLDI, 2016.
 - [A Resilient Framework for Iterative Linear Algebra Applications in X10](http://ieeexplore.ieee.org/abstract/document/7284416/), S. S. Hamouda, J. Milthorpe, P. E. Strazdins, V. Saraswat, PDSEC workshop, IPDPS, 2015.
