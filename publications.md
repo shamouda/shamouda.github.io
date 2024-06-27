@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ### Papers
+- **Memory Management on Mobile Devices** K. Sareen, S. M. Blackburn , S. S. Hamouda, L. Gidra, ISMM, 2024. [PDF](https://www.steveblackburn.org/pubs/papers/android-ismm-2024.pdf)
 - **Resilience in High-Level Parallel Programming Languages** S. S. Hamouda, PhD Thesis, Australian National University, 2019. [PDF](https://openresearch-repository.anu.edu.au/handle/1885/164137)
 - **Failure Recovery in Resilient X10** D. Grove, S. S. Hamouda, B. Herta, A. Iyengar, K. Kawachiya, J. Milthorpe, V. Saraswat, A. Shinnar, M. Takeuchi, O. Tardieu, ACM TOPLAS, 41(3), 2019. [PDF](papers/Grove_TOPLAS2019_preprint.pdf)
 - **Resilient Optimistic Termination Detection for the Async-Finish Model** S. S. Hamouda, J. Milthorpe, ISC High Performance 2019. [PDF](papers/Hamouda2019_ISC_HPC.pdf), [Slides](papers/ISC19_OptFinish_Pres.pdf)
