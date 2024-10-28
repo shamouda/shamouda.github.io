@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img style="float: left;" src="/assets/img/sara2_.jpg" width="195.6px" height="195" hspace="8">
+<img style="float: left;" src="/assets/img/sara2_.jpg" width="180.6px" height="180" hspace="8">
 
 I am a research engineer at Google DeepMind interested in resilience and memory management research.
 I completed my PhD at the [Australian National University](http://www.anu.edu.au/) in 2019
