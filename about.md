@@ -14,5 +14,3 @@ My [PhD thesis](https://openresearch-repository.anu.edu.au/handle/1885/164137) t
 I addressed issues related to performance and productivity of resilient runtime systems.
 In particular, I worked on enhancing the resilience support of the [X10 language](http://x10-lang.org/) in collaboration with the X10 team at IBM T. J. Watson Research center.
 Between my PhD and joining Google, I worked as a post-doctoral researcher at [INRIA](https://www.inria.fr/en/) Paris, where I studied programming and resilience models of eventually consistent geo-replicated databases.
-
-Find more about me in my [CV](/SaraHamoudaCV.pdf)
