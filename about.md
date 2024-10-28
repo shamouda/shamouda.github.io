@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img style="float: left;" src="/assets/img/sara.jpg" width="195.6px" height="288" hspace="8">
+<img style="float: left;" src="/assets/img/sara2_.jpg" width="195.6px" height="288" hspace="8">
 
 I am a research engineer at Google DeepMind interested in resilience and memory management research.
 
