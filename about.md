@@ -6,7 +6,9 @@ permalink: /about/
 
 <img style="float: left;" src="/assets/img/sara2_.jpg" width="180.6px" height="180" hspace="8">
 
-I am a research engineer at Google DeepMind interested in resilience and memory management research.
+Currently a Backend Engineer within Canva’s Education group in Australia. By combining AI with Canva’s world-class design tools, I aim to deliver innovative solutions that set a new standard for student and teacher engagement.
+
+Before Canva, I was a research engineer at Google DeepMind where I collaborated with [Steve Blackburn](https://www.steveblackburn.org/) on several memory management research problems.
 I completed my PhD at the [Australian National University](http://www.anu.edu.au/) in 2019
 under the primary supervision of [Dr. Josh Milthorpe](http://www.milthorpe.org/).
 My [PhD thesis](https://openresearch-repository.anu.edu.au/handle/1885/164137) title is **'Resilience in High-Level Parallel Programming Languages'**, where 
