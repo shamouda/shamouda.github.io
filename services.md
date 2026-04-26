@@ -3,6 +3,7 @@ layout: page
 title: Service
 permalink: /service/
 ---
+- [ISMM 2026](https://conf.researchr.org/committee/ismm-2026/ismm-2026-papers-program-committee): PC member
 - [EuroSys 2025](https://2025.eurosys.org/pc.html#pagetop): PC member
 - [VMIL 2024](https://2024.splashcon.org/committee/vmil-2024-papers-program-committee): PC member
 - [ISMM 2024](https://conf.researchr.org/committee/ismm-2024/ismm-2024-papers-program-committee): PC member
